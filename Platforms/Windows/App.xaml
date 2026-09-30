@@ -1,0 +1,3 @@
+<maui:MauiWinUIApplication xmlns:maui="using:Microsoft.Maui"
+                          x:Class="KoutaCalculator.WinUI.App"
+                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />

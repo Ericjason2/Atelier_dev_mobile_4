@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       x:Class="KoutaCalculator.AppShell"
+       Shell.FlyoutBehavior="Disabled">
+  <ShellContent Title="Calculatrice" ContentTemplate="{DataTemplate local:MainPage}" Route="MainPage"
+                xmlns:local="clr-namespace:KoutaCalculator" />
+</Shell>

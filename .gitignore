@@ -1,0 +1,43 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+TestResults/
+
+# Visual Studio and VS Code local settings
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET tooling and NuGet caches
+.dotnet/
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# Android / MAUI generated files and signing material
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pfx
+*.pem
+*.mobileprovision
+
+# Platform-specific local files
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+report/qa-*.png
